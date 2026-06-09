@@ -1,0 +1,9 @@
+
+{
+  "name": "LuminaBooks - Premium AI-Powered Bookstore",
+  "description": "A cutting-edge bookstore platform featuring AI-driven recommendations, a seamless shopping experience, admin dashboards, and integrated payment flows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
